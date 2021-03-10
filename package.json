@@ -11,5 +11,11 @@
     "keywords": [
         "punny",
         "automation"
-    ]
+    ],
+    "license": "MIT",
+    "main": "index.js",
+    "author": {
+        "name": "Tom Davies",
+        "email": "nodeinthehole88@gmail.com"
+    }
 }
