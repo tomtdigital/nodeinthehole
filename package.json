@@ -1,0 +1,10 @@
+{
+    "name": "nodeinthehole",
+    "version": "1.0.1",
+    "bin": {
+        "nodeinthehole": "index.js"
+    },
+    "dependencies": {
+        "clear-any-console": "^1.16.2"
+    }
+}
