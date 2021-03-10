@@ -1,10 +1,15 @@
 {
     "name": "nodeinthehole",
     "version": "1.0.1",
+    "description": "Putting the 'mate' in automate!",
     "bin": {
         "nodeinthehole": "index.js"
     },
     "dependencies": {
-        "clear-any-console": "^1.16.2"
-    }
+        "cli-welcome": "^2.2.2"
+    },
+    "keywords": [
+        "punny",
+        "automation"
+    ]
 }
